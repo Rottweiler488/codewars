@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(kata8.MergeArrays(([]int{5, 1, 3, 2}, []int{6, 4, 8, 7}))
+	fmt.Println(kata8.MergeArrays([]int{1, 2, 3, 4, 9, 5}, []int{5, 6, 7, 8, 9}))
 }
